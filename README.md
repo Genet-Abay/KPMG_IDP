@@ -70,9 +70,9 @@ Free license
 
 Genet Abay Shiferaw: genetabay.s@gmail.com
 
-Abdulhamid Albaz:
+Abdulhamid Albaz: a.hamidelbaz@gmail.com
 
-Beatrice :
+Beatrice  :  beavdv2000@gmail.com
 
 Repository link : https://github.com/Genet-Abay/real-estate-price-prediction
 
