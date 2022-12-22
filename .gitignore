@@ -130,3 +130,6 @@ analysis.ipynb
 *.txt
 *.venv
 *.db
+/bea/cla.csv
+/bea/nl_txt/
+/bea/cla_with_summary.csv
