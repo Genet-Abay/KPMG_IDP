@@ -74,8 +74,10 @@ It can also be used by running app.py in the deployment folder.
 
 Free license
 
+
 ## Project Team:
 * [Abdulhamid Albaz](https://github.com/Abdulhamid900)
 * [Beatrice Van de Vijvere](https://github.com/Beavdv)
 * [Genet Abay Shiferaw](https://github.com/Genet-Abay)
+
 
