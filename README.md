@@ -43,28 +43,18 @@ Requirements for the software and other tools in order to run the whole programe
 
 
 ## Usage
-Crate docker image from docker file and run the docker image to use the application. 
-
-Building docker image
-
-    docker build -t realestatepriceprediction
-	
-Running docker image
-
-    docker run -d -p 80:80 realestatepriceprediction
-	
-It can also be used by running app.py in the deployment folder.
+Running main_summary.py does all the steps to get summary from pdf
 	
 	```
-	> python3 /deployment/app.py 
+	> python3 /main/main_summary.py 
 
 	OR
 
-	> python /deployment/app.py 
+	> python /main/main_summary.py 
 
 	OR
 
-	> py /deployment/app.py 		
+	> py /main/main_summary.py  		
 	```
       
 
