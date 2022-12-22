@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS posts;
+
+CREATE TABLE CAO_Data (
+    JC_num INTEGER PRIMARY KEY AUTOINCREMENT,
+    title TEXT NOT NULL,
+    Date_published DATE NOT NULL
+);
